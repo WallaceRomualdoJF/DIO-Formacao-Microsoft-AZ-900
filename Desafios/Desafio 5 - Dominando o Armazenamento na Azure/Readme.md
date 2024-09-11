@@ -49,6 +49,8 @@
 
 4. **Autenticar com o Azure**:
    
-   - ```bash
-   - azcopy login
-   - azcopy copy 'caminho/local/do/arquivo' 'https://<sua-conta>.file.core.windows.net/<compartilhamento>/<pasta>?<SAS-token>' --recursive
+   ```bash
+   azcopy login
+   azcopy copy 'caminho/local/do/arquivo' 'https://<sua-conta>.file.core.windows.net/<compartilhamento>/<pasta>?<SAS-token>' --recursive
+
+   ```
