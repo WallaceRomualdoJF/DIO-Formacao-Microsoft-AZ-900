@@ -1,4 +1,4 @@
-[Logo](https://hermes.dio.me/tracks/47592c02-ea89-40c8-8362-81f560be3f16.png)
+![logo](https://hermes.dio.me/tracks/47592c02-ea89-40c8-8362-81f560be3f16.png)
 
 ## Certificação Microsoft Azure AI-900
 
