@@ -1,8 +1,6 @@
 
 # Gerenciamento de Políticas de Acesso no Microsoft Azure
 
-Este guia fornece um passo a passo sobre como gerenciar políticas de acesso no Microsoft Azure. O gerenciamento eficaz de políticas de acesso é crucial para proteger recursos e garantir que apenas usuários autorizados possam acessar e gerenciar recursos na sua assinatura do Azure.
-
 ## Índice
 
 1. [Introdução](#introdução)
