@@ -1,7 +1,7 @@
 # Criação da Arquitetura
 
 
-## 1. Portal do Azure 🌑
+## 1. Portal do Azure
 
 Login no [Portal do Azure](https://portal.azure.com).
 
