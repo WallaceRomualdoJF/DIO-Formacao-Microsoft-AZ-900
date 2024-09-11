@@ -11,7 +11,7 @@ Login no [Portal do Azure](https://portal.azure.com).
 
 2. Clique em **"Criar"** para inicia a criação de um novo grupo de recursos.
 
-   ![s](https://github.com/user-attachments/assets/3d26af1f-5ee7-46f8-8c62-662ead21aa8b)
+   ![image](/Desafios/Desafio%203%20-%20Construindo%20Arquiteturas%20no%20Azure/azure.png)
 
 4. Preencha as seguintes informações:
    - **Nome do Grupo de Recursos**: Dê um nome que identifique facilmente o grupo e seu propósito.
