@@ -49,10 +49,3 @@ Saída:
 ```
 
 O salário bruto é de R$3000,00, e o benefício é de R$250,00. O imposto aplicado será de 15%, resultando em um salário líquido de R$2825,00.
-
-## Requisitos
-
-- Python 3.x
-```
-
-Esse `README.md` fornece uma explicação clara de como o script funciona, além de instruções de uso para quem clonar o repositório.
